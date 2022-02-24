@@ -7,6 +7,10 @@
 - made by : Hyeju Hong 
 - API (https://fakestoreapi.com/products)
 
+## Facts: 
+
+if you search first letter of Items than the product will showing.
+
 ### code Journal 
 
 
